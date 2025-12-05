@@ -33,6 +33,13 @@ Slicers
 Formulas
 Git & GitHub
 
+## 📊 Dashboard Preview
+![Dashboard](https://raw.githubusercontent.com/joshwa569/spotify-analysis/main/1%20git.png)
+
+## 📁 Pivot Tables
+![Pivot Tables](https://raw.githubusercontent.com/joshwa569/spotify-analysis/main/2%20git.png)
+
+
 What I Learned:
 
 Building dynamic dashboards using Excel
