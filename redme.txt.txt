@@ -1,1 +1,42 @@
-hi helloooo
+An interactive Excel-based dashboard analyzing 230k+ Spotify tracks using pivot tables, KPIs, slicers, and visualizations.
+
+
+Key Insights:
+
+Pop is the most popular genre (~66.5)
+Electronic, Hip-Hop, and Rock have the highest energy levels
+Danceability has a strong positive correlation with popularity
+Low-danceability songs (0.0–0.2) perform the worst
+Classical and Opera have the lowest energy values
+Indie and Children’s Music show surprisingly high popularity
+
+
+Dashboard Features:
+
+KPI Tiles:
+ Total Tracks
+ Avg Popularity
+ Avg Tempo
+ Top Genre
+
+Genre Popularity Chart
+Genre Energy Chart
+Danceability vs Popularity Line Chart
+Interactive slicer (Genre)
+Organized pivot tables on a separate sheet
+
+Tools Used:
+
+Microsoft Excel
+Pivot Tables
+Slicers
+Formulas
+Git & GitHub
+
+What I Learned:
+
+Building dynamic dashboards using Excel
+Using slicers for interactive filtering
+Deriving insights from large datasets
+Cleaning and organizing Excel workspace
+Working with Git version control
